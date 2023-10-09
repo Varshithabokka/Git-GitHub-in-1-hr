@@ -68,7 +68,7 @@
 -   Open the floor to questions and clarify any doubts participants may have.
 
 ## **12. Conclusion and Next Steps 🚪 (5 minutes)**
-![Introduction to Git - Beginners Guide With Fun Activities](https://www.crio.do/blog/content/images/2021/05/Git-vs-GitHub.png)
+![GitHub for The Modern Data Scientist: 7 Concepts You Can't .gitignore | by  Bex T. | Towards Data Science](https://miro.medium.com/v2/1*JEf85n3V1M6mjIPs9AhlRQ.png)
 -   Recap the key points of the course.
 -   Suggest further resources for participants to continue learning about Git and GitHub.
 -   Thank participants for attending.
