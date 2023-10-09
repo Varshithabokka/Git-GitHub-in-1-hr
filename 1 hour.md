@@ -64,7 +64,7 @@
 -   Example: Create a new branch, make changes, and merge them back into the main branch.
 
 ## **11. Q&A Session ❓ (5 minutes)**
-![30+ Commonly Asked GIT Interview Questions (2023) - InterviewBit](https://s3.ap-south-1.amazonaws.com/myinterviewtrainer-domestic/public_assets/assets/000/000/180/original/git_central_repository.png?1615888211)
+![GitHub's Hardcore Plan to Roll Out Two-Factor Authentication (2FA) | WIRED](https://media.wired.com/photos/64d4759ee416fd283a85c6ec/master/w_2560%2Cc_limit/GitHub-2-Factor-Authentication-Security-GettyImages-1250142343.jpg)
 -   Open the floor to questions and clarify any doubts participants may have.
 
 ## **12. Conclusion and Next Steps 🚪 (5 minutes)**
